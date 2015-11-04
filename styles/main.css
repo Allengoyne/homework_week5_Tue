@@ -1,0 +1,11 @@
+main {
+  background: #1E0FFF;
+  border-radius: 20px;
+  height: 250px;
+  color: #fff;
+  text-align: center;
+  margin-top: 50px; }
+  main a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px; }
